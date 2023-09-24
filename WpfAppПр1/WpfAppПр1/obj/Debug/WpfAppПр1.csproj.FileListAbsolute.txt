@@ -1,0 +1,31 @@
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\bin\Debug\WpfAppПр1.exe.config
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\bin\Debug\WpfAppПр1.exe
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\bin\Debug\WpfAppПр1.pdb
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.csproj.AssemblyReference.cache
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\obj\Debug\MainWindow.g.cs
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\obj\Debug\App.g.cs
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1_MarkupCompile.cache
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1_MarkupCompile.lref
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\obj\Debug\MainWindow.baml
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.g.resources
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.Properties.Resources.resources
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.csproj.GenerateResource.cache
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.csproj.CoreCompileInputs.cache
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.exe
+C:\Users\Savva\source\repos\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.pdb
+C:\Users\percy\OneDrive\Рабочий стол\WpfAppПр1\WpfAppПр1\bin\Debug\WpfAppПр1.exe.config
+C:\Users\percy\OneDrive\Рабочий стол\WpfAppПр1\WpfAppПр1\bin\Debug\WpfAppПр1.exe
+C:\Users\percy\OneDrive\Рабочий стол\WpfAppПр1\WpfAppПр1\bin\Debug\WpfAppПр1.pdb
+C:\Users\percy\OneDrive\Рабочий стол\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.csproj.AssemblyReference.cache
+C:\Users\percy\OneDrive\Рабочий стол\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.csproj.SuggestedBindingRedirects.cache
+C:\Users\percy\OneDrive\Рабочий стол\WpfAppПр1\WpfAppПр1\obj\Debug\MainWindow.g.cs
+C:\Users\percy\OneDrive\Рабочий стол\WpfAppПр1\WpfAppПр1\obj\Debug\App.g.cs
+C:\Users\percy\OneDrive\Рабочий стол\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1_MarkupCompile.cache
+C:\Users\percy\OneDrive\Рабочий стол\WpfAppПр1\WpfAppПр1\obj\Debug\MainWindow.baml
+C:\Users\percy\OneDrive\Рабочий стол\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.g.resources
+C:\Users\percy\OneDrive\Рабочий стол\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.Properties.Resources.resources
+C:\Users\percy\OneDrive\Рабочий стол\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.csproj.GenerateResource.cache
+C:\Users\percy\OneDrive\Рабочий стол\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.csproj.CoreCompileInputs.cache
+C:\Users\percy\OneDrive\Рабочий стол\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.exe
+C:\Users\percy\OneDrive\Рабочий стол\WpfAppПр1\WpfAppПр1\obj\Debug\WpfAppПр1.pdb
